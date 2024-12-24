@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I'm based in Gazipur<br>🔭 I’m currently focusing on building a strong foundation in Cyber Security<br>🧠  Currently I'm learning about Reconnaissance<br>📚 Currently reading The Alchemist<br>✉️  You can contact me at mahfuzurrahman5609@gmail.com
+🌍 I'm based in Gazipur<br>🔭 I’m currently focusing on building a strong foundation in Cyber Security<br>🧠  Currently I'm learning Web Security<br>📚 Currently reading The Alchemist<br>✉️  You can contact me at mahfuzurrahman5609@gmail.com
 
 
 ## 🌐 Socials:
